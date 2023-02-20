@@ -1,0 +1,5 @@
+.popup__block_active { /* При добавлении класса 'active'*/
+  /*transform: translate(-50%, -50%) scale(1); /* Так же центрируем и плавно увеличиваем*/
+ display: flex;
+ transition: 0.5s all;
+}
